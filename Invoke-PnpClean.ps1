@@ -1,0 +1,1 @@
+﻿invoke-command {C:\windows\system32\RUNDLL32.exe c:\windows\system32\pnpclean.dll,RunDLL_PnpClean /Devices /Maxclean}
